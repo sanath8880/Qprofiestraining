@@ -1,0 +1,45 @@
+[33mcommit 84508a5590f0d0836828530148e666d9415286b1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-7-251.ap-northeast-1.compute.internal>
+Date:   Mon Feb 20 12:27:02 2023 +0000
+
+    committed on wrong branch by mistake and Revert "added d files"
+    
+    This reverts commit 574b7073919703a05ced195199635ca336520dd8.
+
+[33mcommit 574b7073919703a05ced195199635ca336520dd8[m
+Author: Ubuntu <ubuntu@ip-172-31-7-251.ap-northeast-1.compute.internal>
+Date:   Mon Feb 20 12:13:14 2023 +0000
+
+    committedon wrong branch by mistake and Revert "added files"0
+    
+    This reverts commit cc589b220c7233eee00d2c54a280e1a1574194cd.
+
+[33mcommit cc589b220c7233eee00d2c54a280e1a1574194cd[m[33m ([m[1;33mtag: release_branch1[m[33m, [m[1;33mtag: release1[m[33m, [m[1;33mtag: release[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-7-251.ap-northeast-1.compute.internal>
+Date:   Fri Feb 17 11:07:55 2023 +0000
+
+    added files
+
+[33mcommit 8994555c4473851badb4580da76a5be826715893[m
+Author: Ubuntu <ubuntu@ip-172-31-7-251.ap-northeast-1.compute.internal>
+Date:   Fri Feb 17 10:59:18 2023 +0000
+
+    added test2
+
+[33mcommit ca92a890ad0e7a94a07b687b8202bb9ac7e5b4ae[m
+Author: Ubuntu <ubuntu@ip-172-31-7-251.ap-northeast-1.compute.internal>
+Date:   Fri Feb 17 10:37:30 2023 +0000
+
+    modified 2nd time
+
+[33mcommit 04d4c45b530b5746e4dd2a2bbc910925ac786ca1[m
+Author: Ubuntu <ubuntu@ip-172-31-7-251.ap-northeast-1.compute.internal>
+Date:   Fri Feb 17 10:34:00 2023 +0000
+
+    modified test1
+
+[33mcommit 879a8b7a7e0c9b21bc9e09dfc02a5b766f8b3de2[m
+Author: Ubuntu <ubuntu@ip-172-31-7-251.ap-northeast-1.compute.internal>
+Date:   Fri Feb 17 10:30:36 2023 +0000
+
+    added test1
